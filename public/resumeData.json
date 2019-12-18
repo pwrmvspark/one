@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Danny Park",
+    "name":"Daniel Park",
     "occupation":"Software Engineer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in. My hobbies include motorsports and Brazilian Jiu-Jitsu",
+    "description":"Experienced in non-profit healthcare, military, and IT operations. Proven to be empathetic and curious, I am relentless with building relationships and working on innovative projects. I am committed to advancing my career with humans who hold values and social responsibilities that are similar to my own",
+    "image":"headshot.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in. My hobbies include motorsports and Brazilian Jiu-Jitsu.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "danielparkonline@gmail.com",
     "phone": "206-300-5822",
@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"",
+        "url":"http://facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -64,24 +64,24 @@
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"University of Washington",
+        "degree":"Health Informatics and Health Information Management",
+        "graduated":"2015",
         "description":"Need description on this***"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Softchoice",
+        "title":"Account Manager",
+        "years":"2018 - 2019",
+        "description":"Managed a 700+ user infrastructure using Microsoft, VMware, and Cisco technologies."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"SOUND",
+        "title":"System Administrator",
+        "years":"2014 - 2018",
+        "description":"Responsible for, under the supervision of a psychiatrist, social worker, psychiatric nurse or psychologist, the assessment and management of soldier patients"
       }
     ],
     "skills":[

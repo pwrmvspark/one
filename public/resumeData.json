@@ -23,6 +23,11 @@
         "className":"fa fa-facebook"
       },
       {
+        "name":"instagram",
+        "url":"http://instagram.com/dannyatthepark",
+        "className":"fa fa-instagram"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/dannyatthepark/",
         "className":"fa fa-linkedin"
@@ -35,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Hack Reactor @ Galvanize",

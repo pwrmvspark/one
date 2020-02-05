@@ -34,7 +34,7 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}</h1>
+            <h1 className="responsive-headline">Hi! I'm {name}</h1>
             {/* <h2 className="responsive-headline">Welcome to my domain!</h2> */}
             <br></br>
             <h3>{city} based <span>{occupation}</span>. {description}.</h3>
@@ -42,12 +42,16 @@ class Header extends Component {
             <ul className="social">
                {networks}
             </ul>
+
          </div>
       </div>
+
+      
 
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
+
 
    </header>
     );

@@ -4,8 +4,8 @@
     "occupation":"Software Engineer",
     "description":"Previous experience in non-profit healthcare, military, and IT operations. Proven to be empathetic and curious, I am relentless with building relationships and working on innovative projects. I am committed to advancing my career with humans who hold values and social responsibilities that are similar to my own",
     "image":"headshot.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in. My hobbies include motorsports and Brazilian Jiu-Jitsu.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Endomorph, brazilian jiu-jitsu competitor, and avid motorsports hobbyist. I am in the business of cr. I strive to be a good person, everything else will fall in line.",
+    "contactmessage":"",
     "email": "danielparkonline@gmail.com",
     "phone": "206-300-5822",
     "address":{
@@ -19,38 +19,18 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com",
+        "url":"http://facebook.com/dannyatthepark",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/dannyatthepark/",
+        "url":"https://www.linkedin.com/in/dannyatthepark/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
         "url":"http://github.com/pwrmvspark",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -152,13 +132,15 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Daniel is a thoughtful, well-rounded, and meticulous engineer who is never afraid to ask questions. Because of his undying curiosity, he is continuously learning and improving his practical engineering abilities. I thoroughly enjoyed working with Daniel as a pair programmer. I would recommend him to any position which is looking for a leader who will work hard for his team.",
+        "user":"Michael Thompson"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":"Matthew Sheehan, Director of IT"
       }
     ]
   }
 }
+
+

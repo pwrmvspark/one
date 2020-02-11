@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Daniel Park",
+    "occupation":"Software Engineer",
+    "description":"Previous experience in non-profit healthcare, military, and IT operations. Proven to be empathetic and curious, I am relentless with building relationships and working on innovative projects. I am committed to advancing my career with humans who hold values and social responsibilities that are similar to my own",
+    "image":"headshot.jpg",
+    "bio":"New York transplant, endomorph, brazilian jiu-jitsu competitor, and avid motorsports hobbyist. Advocate of clean code, effificent processes, and repitition. I strive to be a good person first and foremost, everything else will fall in line.",
+    "contactmessage":"",
+    "email": "danielparkonline@gmail.com",
+    "phone": "206-300-5822",
+    "address":{
+      "street":"238 SW 200th Street",
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98166"
+    },
+    "website": "http://www.dannyatthepark.dev",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/dannyatthepark",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/dannyatthepark",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dannyatthepark/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/pwrmvspark",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Hack Reactor @ Galvanize",
+        "degree":"Software Engineering",
+        "graduated":"2019",
+        "description":""
+      },
+      {
+        "school":"University of Washington",
+        "degree":"Health Informatics and Health Information Management",
+        "graduated":"2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Softchoice",
+        "title":"Account Manager",
+        "years":"2018 - 2019",
+        "description":""
+      },
+      {
+        "company":"SOUND",
+        "title":"System Administrator",
+        "years":"2014 - 2018",
+        "description":""
+      },
+      {
+        "company":"US Army Reserve",
+        "title":"Behavioral Health Specialist 68X",
+        "years":"2011 - 2020",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"50%"
+      },
+      {
+        "name":"SQL/NoSQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RecognizeMyFace",
+        "category":"Fullstack facial recognition app with credential authenication/hashing",
+        "image":"recmyface.png",
+        "url":"https://recognizemyface.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":"Michael Thompson, Software Engineer"
+      },
+      {
+        "text":"Danny is a driven and hard working individual. He has a passion for learning and is able to dig deep when confronted with software or hardware obstacles. Give him a project and his determination will ultimately conquer the challenge at hand.",
+        "user":"Matthew Sheehan, Director of IT"
+      }
+    ]
+  }
+}
+
+

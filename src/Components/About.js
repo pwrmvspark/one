@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// import Pdf from '/src/Components/Park_Resume.pdf';
 
 class About extends Component {
   render() {
@@ -13,7 +14,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      // var resumeDownload = this.props.data.resumedownload;
       // var networks = this.props.data.social.map(function(network){
       //    return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       //  })
@@ -47,7 +48,7 @@ class About extends Component {
               
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href="http://localhost:3000/Park_Resume.pdf" className="button"><i className="fa fa-download"></i>Resume</a>
                   </p>
                </div>
             </div>
@@ -60,3 +61,5 @@ class About extends Component {
 }
 
 export default About;
+
+// "/public/images/portfolio/Park_Resume.pdf"
